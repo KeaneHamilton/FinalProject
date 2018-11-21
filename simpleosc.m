@@ -1,5 +1,5 @@
 fs = 44100; % Hz
-BPM =130;
+BPM =130; %BPM doesn't really matter
 
 
 
